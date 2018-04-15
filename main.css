@@ -1,0 +1,30 @@
+
+.contactcards{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.cardStyle {
+    width: 33.33%;
+    float: left;
+    border: 1px solid black;
+    margin: 22px;
+    padding-bottom: 11px;
+    background-color: cornsilk;
+ 
+}
+.lineStyle {
+  
+    border-bottom: 1px solid black;
+    background-color: aqua;
+    padding-bottom: 11px;
+}
+
+p {
+    margin: 0;
+    padding-left: 11px;
+    padding-top:11px;
+    font-family: 'Times New Roman';
+    
+}
